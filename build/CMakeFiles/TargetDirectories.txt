@@ -1,0 +1,2 @@
+/home/crazy/softwareSetup/pcfilter/build/CMakeFiles/filter.dir
+/home/crazy/softwareSetup/pcfilter/build/CMakeFiles/Poission.dir
